@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\data\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\data\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\source\\repos\\usuariosapi\\usuariosapi\\data\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\data\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 486,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Program.cs",
+              "RelativeToolTip": "UsuariosAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:36:32.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\UsuarioContext.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Data\\UsuarioContext.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\UsuarioContext.cs",
+              "RelativeToolTip": "UsuariosAPI\\Data\\UsuarioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:37:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "UsuariosAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:08:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioProfile.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Profiles\\UsuarioProfile.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Profiles\\UsuarioProfile.cs",
+              "RelativeToolTip": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:04:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:47:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
+              "RelativeToolTip": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:51:47.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 58,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
