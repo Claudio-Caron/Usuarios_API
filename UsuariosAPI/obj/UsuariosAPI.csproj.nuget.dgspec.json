@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj": {}
+    "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj": {
+    "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
         "projectName": "UsuariosAPI",
-        "projectPath": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
+        "projectPath": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\claud\\source\\repos\\UsuariosAPI\\UsuariosAPI\\obj\\",
+        "outputPath": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,6 +71,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
             }
           },
           "imports": [

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\data\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\data\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D260580-2325-4141-9278-4B7C467B3F73}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\claud\\versionamento\\usuariosapi\\usuariosapi\\data\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,41 +49,107 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 486,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 382,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UsuariosAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:47:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "UsuariosAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:06:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Program.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Program.cs",
               "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Program.cs",
               "RelativeToolTip": "UsuariosAPI\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T19:36:32.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "UsuariosAPI\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:56:16.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UsuarioContext.cs",
               "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Data\\UsuarioContext.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Data\\UsuarioContext.cs",
               "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Data\\UsuarioContext.cs",
               "RelativeToolTip": "UsuariosAPI\\Data\\UsuarioContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:37:23.755Z"
+              "WhenOpened": "2025-02-20T19:37:23.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UsuariosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\appsettings.json",
+              "RelativeToolTip": "UsuariosAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T17:40:26.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosAPI",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
+              "RelativeDocumentMoniker": "UsuariosAPI\\UsuariosAPI.csproj",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\UsuariosAPI.csproj",
+              "RelativeToolTip": "UsuariosAPI\\UsuariosAPI.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T17:44:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Models\\Usuario.cs",
@@ -75,11 +157,12 @@
               "RelativeToolTip": "UsuariosAPI\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:08:48.486Z"
+              "WhenOpened": "2025-02-19T22:08:48.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UsuarioProfile.cs",
               "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Profiles\\UsuarioProfile.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
@@ -87,38 +170,32 @@
               "RelativeToolTip": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:04:35.029Z"
+              "WhenOpened": "2025-02-19T22:04:35.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "UsuariosAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "UsuariosAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T21:47:00.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CreateUsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
               "ToolTip": "C:\\Users\\claud\\Versionamento\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
               "RelativeToolTip": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T21:51:47.828Z"
+              "WhenOpened": "2025-02-19T21:51:47.828Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 58,
+          "DockedHeight": 162,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -134,10 +211,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
