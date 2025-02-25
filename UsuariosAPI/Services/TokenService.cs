@@ -14,7 +14,8 @@ public class TokenService
         {
             new Claim("username", usuario.UserName),
             new Claim("Id", usuario.Id),
-            new Claim(ClaimTypes.DateOfBirth, usuario.DataNascimento.ToString())
+            new Claim(ClaimTypes.DateOfBirth, usuario.DataNascimento.ToString()),
+            new Claim("loginTimesTemp", DateTime.UtcNow.ToString())
         };
         var chave = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Guid.NewGuid().ToString()));
 
